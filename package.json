@@ -1,0 +1,23 @@
+{
+  "name": "pcuci-shout",
+  "version": "0.0.1",
+  "description": "Hello worlding by pcuci",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pcuci/pcuci-shout.git"
+  },
+  "keywords": [
+    "pcuci",
+    "hello"
+  ],
+  "author": "\"Paul Cuciureanu <paul@enfluence.io> (http://enfluence.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pcuci/pcuci-shout/issues"
+  },
+  "homepage": "https://github.com/pcuci/pcuci-shout#readme"
+}
